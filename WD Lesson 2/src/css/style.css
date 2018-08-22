@@ -1,0 +1,12 @@
+body {
+	background: url(../img/bg.jpeg);
+	text-align: center;
+	font-family: 'Ubuntu', sans-serif;
+}
+.content {
+	text-align: left;
+}
+.book {
+	text-align: left;
+	width: 60%;
+}
