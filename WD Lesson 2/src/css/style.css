@@ -4,9 +4,39 @@ body {
 	font-family: 'Ubuntu', sans-serif;
 }
 .content {
+	background-color: rgba(206, 204, 204, 0.3);
+	border: 1px solid #aeaeae;
 	text-align: left;
+}
+.content-head {
+	text-align: center;
+}
+.content-chapt1 {
+	color: #027981;
+}
+.content-chapt2 {
+	color: #ffb8aa;
+}
+.content-chapt3 {
+	color: #e6d3cd;
+}
+.content-chapt4 {
+	color: #66d8d9;
+}
+.content-chapt5 {
+	color: #012c57;
 }
 .book {
 	text-align: left;
 	width: 60%;
+}
+.menu {
+	position: fixed;
+	top: 0px;
+	left: 80%;
+	background-color: rgba(206, 204, 204, 0.3);
+	border: 2px solid;
+	font-weight: 700;
+	font-size: 18px;
+
 }
