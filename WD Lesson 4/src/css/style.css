@@ -1,0 +1,42 @@
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.box {
+	display: inline-block;
+	height: 100%;
+	width: 100%
+}
+
+.card {
+	display: inline-block;
+	margin: auto;
+	width: 1617px;
+	height: 806px;
+	border: 1px solid #d7d7d7;
+	background-color: #ffffff;
+}
+
+.beats {
+	display: inline-block;
+}
+
+#picture{
+	display: block;
+	width: 600px;
+	height: 600px;
+}
+.name {
+	display: block;
+}
+.desc {
+	display: block;
+}
+.price {
+	display: block;
+}
+.summ {
+	display: block;
+}
